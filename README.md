@@ -1,6 +1,6 @@
-# Finance_IRL
+***Identifiability and Generalizability from multiple experts in inverse reinforcement learning***
 
-Code for the NeurIPS 2022 submission "Identifiability and Generalizability from multiple experts in inverse reinforcement learning"
+Code for the NeurIPS 2022 paper "Identifiability and Generalizability from multiple experts in inverse reinforcement learning"
 
 All the results in the paper can be reproduced with the notebook **Experiments.ipynb**
 
